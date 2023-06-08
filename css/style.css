@@ -388,3 +388,10 @@ body {
     margin-top: 13px
   }
 }
+
+@media only screen and (max-width: 360px) {
+  .image-top {
+    width: 73.7%;
+    margin: auto;
+  }
+}
